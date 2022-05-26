@@ -1,2 +1,3 @@
 # PAS-24
 Proyek Akhir Semester 2 Kelompok 24. U-Fit merupakan program tracking target harian dengan parameter berupa laporan diet harian dan target diet pengguna. Dilengkapi dengan fitur penghitung Indeks Massa Tubuh serta identifikasi kategori berat badan untuk menjadi konsiderasi pengguna dalam memakai aplikasi dan menjalani diet sehatnya. Target dan laporan harian pengguna akan di export menjadi 2 file .txt yang berbeda, pengguna juga bisa menghapus laporan diet harian nya pada hari tertentu dan penghapusan tersebut akan terekam pada file .txt lainnya 
+Flowchart : https://drive.google.com/file/d/1g4dCBdEoA2LIL1E__3GUFbKszse7EiSG/view?usp=sharing
