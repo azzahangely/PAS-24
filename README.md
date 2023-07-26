@@ -2,7 +2,10 @@
 
 U-Fit is a daily target tracking program designed to help users monitor their daily diet and achieve their diet goals. The application includes features like Body Mass Index (BMI) calculation and weight category identification to support users in their journey towards a healthier lifestyle.
 
-![U-FIT Flowchart](https://drive.google.com/file/d/1g4dCBdEoA2LIL1E__3GUFbKszse7EiSG/view?usp=sharing)
+## Related Link 
+
+**U-FIT Flowchart**
+- https://drive.google.com/file/d/1g4dCBdEoA2LIL1E__3GUFbKszse7EiSG/view?usp=sharing
 
 ## Features
 
